@@ -1,6 +1,7 @@
 # React Show More Or Less
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Build Status](https://travis-ci.org/pikselpalette/react-show-more-or-less.svg?branch=master)](https://travis-ci.org/pikselpalette/react-show-more-or-less)
 
 This component truncates its children if they're are more than the limit, and shows a `Show more` link. Clicking this expands it then shows `Show less` link.
 
