@@ -1,7 +1,14 @@
 # React Show More Or Less
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![npm version](https://badge.fury.io/js/react-show-more-or-less.svg)](https://badge.fury.io/js/react-show-more-or-less)
 [![Build Status](https://travis-ci.org/pikselpalette/react-show-more-or-less.svg?branch=master)](https://travis-ci.org/pikselpalette/react-show-more-or-less)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d4cee746ac5f43798afe8ae40e4d36d7)](https://www.codacy.com/app/samboylett/react-show-more-or-less?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pikselpalette/react-show-more-or-less&amp;utm_campaign=Badge_Grade)
+[![dependencies Status](https://david-dm.org/pikselpalette/react-show-more-or-less/status.svg)](https://david-dm.org/pikselpalette/react-show-more-or-less)
+[![devDependencies Status](https://david-dm.org/pikselpalette/react-show-more-or-less/dev-status.svg)](https://david-dm.org/pikselpalette/react-show-more-or-less?type=dev)
+[![peerDependencies Status](https://david-dm.org/pikselpalette/react-show-more-or-less/peer-status.svg)](https://david-dm.org/pikselpalette/react-show-more-or-less?type=peer)
+[![codecov](https://codecov.io/gh/pikselpalette/react-show-more-or-less/branch/master/graph/badge.svg)](https://codecov.io/gh/pikselpalette/react-show-more-or-less)
+[![Mutation testing badge](https://badge.stryker-mutator.io/github.com/pikselpalette/react-show-more-or-less/master)](https://stryker-mutator.github.io)
 
 This component truncates its children if they're are more than the limit, and shows a `Show more` link. Clicking this expands it then shows `Show less` link.
 
