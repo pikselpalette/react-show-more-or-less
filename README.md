@@ -8,7 +8,7 @@
 [![devDependencies Status](https://david-dm.org/pikselpalette/react-show-more-or-less/dev-status.svg)](https://david-dm.org/pikselpalette/react-show-more-or-less?type=dev)
 [![peerDependencies Status](https://david-dm.org/pikselpalette/react-show-more-or-less/peer-status.svg)](https://david-dm.org/pikselpalette/react-show-more-or-less?type=peer)
 [![codecov](https://codecov.io/gh/pikselpalette/react-show-more-or-less/branch/master/graph/badge.svg)](https://codecov.io/gh/pikselpalette/react-show-more-or-less)
-[![Mutation testing badge](https://badge.stryker-mutator.io/github.com/pikselpalette/react-show-more-or-less/master)](https://stryker-mutator.github.io)
+[![Mutation testing badge](https://badge.stryker-mutator.io/github.com/pikselpalette/react-show-more-or-less/master)](https://stryker-mutator.github.io) [![Greenkeeper badge](https://badges.greenkeeper.io/pikselpalette/react-show-more-or-less.svg)](https://greenkeeper.io/)
 
 This component truncates its children if they're are more than the limit, and shows a `Show more` link. Clicking this expands it then shows `Show less` link.
 
